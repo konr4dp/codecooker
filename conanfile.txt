@@ -1,0 +1,9 @@
+[requires]
+nlohmann_json/3.9.1
+boost/1.80.0
+
+[generators]
+cmake
+
+[options]
+boost:header_only=True
